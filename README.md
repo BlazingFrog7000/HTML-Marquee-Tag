@@ -1,2 +1,2 @@
-# CSS-Project
-All about CSS 
+# Small-Project
+
