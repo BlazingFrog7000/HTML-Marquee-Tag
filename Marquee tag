@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Test</title>
+</head>
+<body>
+<h1>Marquee Tag HTML</h1>
+<marquee>Blahblahblahblah...</marquee>
+
+
+<marquee direction="up">Blahblahblahblah...</marquee>
+
+<marquee
+  direction="down"
+  width="250"
+  height="250"
+  behavior="alternate"
+  style="border:solid">
+  <marquee behavior="alternate">Blahblahblahblah...</marquee>
+</marquee>
+
+</body>
+</html>
