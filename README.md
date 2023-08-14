@@ -1,2 +1,2 @@
-# Small-Project
+# HTML Marquee Tag
 
